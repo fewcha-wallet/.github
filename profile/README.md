@@ -8,6 +8,7 @@ A Aptos Wallet for your ultimate comfort.
 
 The most complete wallet currently for test with devnet of Aptos blockchain. We are making it better day by day and the best ever.
 
+Check our website to follow our roadmap: https://fewcha.app
 ## Current features
 - Create wallet
 - Send & receive TestCoin balance
@@ -25,17 +26,14 @@ The most complete wallet currently for test with devnet of Aptos blockchain. We 
 
 ## Security
 
-Check our website to follow our roadmap: https://fewcha.app
- 
 100% security
 - Client side only, we DO NOT store anything
 - Your privacy is yours
 - Fewcha's safety and security will be thoroughly audited by [Verichains](https://audit.verichains.io/)
 
-
 ## Download Fewcha Wallet Now
 
-- Chrome, Brave, Edge extension: [Fewcha Aptos Wallet - Chrome Extesion](https://chrome.google.com/webstore/detail/ebfidpplhabeedpnhjnobghokpiioolj)
+- Chrome, Brave, Edge extension: [Fewcha Aptos Wallet](https://chrome.google.com/webstore/detail/ebfidpplhabeedpnhjnobghokpiioolj)
 - Firefox extension: WIP
 - iOS version: WIP
 - Android version: WIP
