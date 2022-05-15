@@ -1,38 +1,31 @@
-# Fewcha - Aptos Wallet
+Fewcha Wallet - Aptos Layer 1 Blockchain Wallet in your browser.
 
-Website: https://fewcha.app
+Fewcha Wallet is made to be the most comfortable and safest way to store crypto assets for the Aptos ecosystem and for everyone.
 
-Fewcha - The wallet of layer 1 blockchain Aptos.
+EASY TO USE - EASY TO OPERATE - EASY TO ACCESS | That is Fewcha Wallet.
 
-A Aptos Wallet for your ultimate comfort.
+## Features already available:
+- Create Wallet/Import Wallet
+- SEND and RECEIVE testnet balances
+- Custom RPC Networks
+- Accounts switch/Address books/Details
+- Faucet Testnet
+- Transaction History
 
-The most complete wallet currently for test with devnet of Aptos blockchain. We are making it better day by day and the best ever.
-
-Check our website to follow our roadmap: https://fewcha.app
-## Current features
-- Create wallet
-- Send & receive TestCoin balance
-- Custom networks
-- Faucet
-- Transactions
-- Accounts, switch, favorite and show detail
-
-## Implementing feature
-- NFTs list, send, receive
-- Token list, send, receive
-- Integrate with Web3, that you can login, make transactions from your dapp website
-- Mobile versions
-- Swap
+## In-coming Features:
+- SWAP token feature.
+- NFTs LIST/SEND/RECEIVE
+- Tokens LIST/SEND/RECEIVE
+- Web3 Integration (Connect/Login and make transactions from your Dapp)
+- Mobile App version
 
 ## Security
 
-100% security
-- Client side only, we DO NOT store anything
-- Your privacy is yours
+- Privacy is yours
+- Client side only, we DO NOT store any data.
 - Fewcha's safety and security will be thoroughly audited by [Verichains](https://audit.verichains.io/)
 
-## Download Fewcha Wallet Now
-
+## Download Fewcha Wallet Now at
 - Chrome, Brave, Edge extension: [Fewcha Aptos Wallet](https://chrome.google.com/webstore/detail/ebfidpplhabeedpnhjnobghokpiioolj)
 - Firefox extension: WIP
 - iOS version: WIP
