@@ -17,6 +17,10 @@ You can create your own wallet without using the internet, your Mnemonic Phrase 
 
 **Chrome, Brave, Edge** extension: [Fewcha Wallet](http://fwch.io/chrome)
 
+## Integration
+
+Our integration docs: https://docs.fewcha.app
+
 ## Links
 
 | Logo                                                                                      | Link                                                                 |
