@@ -1,47 +1,36 @@
-# Fewcha - Aptos Wallet
+# Fewcha - The Modern and Convenient Wallet
 
-Website: https://fewcha.app
+[![Fewcha Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/fewcha.svg)](https://fewcha.app)
 
-Fewcha - The wallet of layer 1 blockchain Aptos.
 
-A Aptos Wallet for your ultimate comfort.
+The wallet for Aptos & SUI blockchain
 
-The most complete wallet currently for test with devnet of Aptos blockchain. We are making it better day by day and the best ever.
+Fewcha is a non-custodial Web3.0 wallet and also the first wallet developed for blockchain using Move Smart Contract. Fewcha Wallet allows users to transfer cryptocurrency freely between their wallet and DApps.
 
-Check our website to follow our roadmap: https://fewcha.app
-## Current features
-- Create wallet
-- Send & receive TestCoin balance
-- Custom networks
-- Faucet
-- Transactions
-- Accounts, switch, favorite and show detail
+Fewcha also gives people access to create many wallets for asset management, track all the wallet transaction history, manage NFT collectibles, and set your in-app Name Service to shorten your address.
 
-## Implementing feature
-- NFTs list, send, receive
-- Token list, send, receive
-- Integrate with Web3, that you can login, make transactions from your dapp website
-- Mobile versions
-- Swap
+The Mnemonic Phrase is 100% encrypted and Fewcha does not keep your seed phrase on any servers.
 
-## Security
+You can create your own wallet without using the internet, your Mnemonic Phrase is fully generated on your local devices.
 
-100% security
-- Client side only, we DO NOT store anything
-- Your privacy is yours
-- Fewcha's safety and security will be thoroughly audited by [Verichains](https://audit.verichains.io/)
+## Download
 
-## Download Fewcha Wallet Now
+**Chrome, Brave, Edge** extension: [Fewcha Wallet](http://fwch.io/chrome)
 
-- Chrome, Brave, Edge extension: [Fewcha Aptos Wallet](https://chrome.google.com/webstore/detail/ebfidpplhabeedpnhjnobghokpiioolj)
-- Firefox extension: WIP
-- iOS version: WIP
-- Android version: WIP
+## Links
 
-## Socials
+| Logo                                                                                      | Link                                                                 |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| ![Fewcha Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/fewcha-icon.svg) | [https://fewcha.app](https://fewcha.app)                             |
+| ![Twitter Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/twitter.svg)    | [https://twitter.com/fewchawallet](https://twitter.com/fewchawallet) |
+| ![Discord Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/discord.svg)    | [https://discord.gg/fewcha](https://discord.gg/fewchat)              |
+| ![Telegram Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/telegram.svg)  | [https://t.me/FewchaWallet](https://t.me/FewchaWallet)               |
+| ![Medium Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/medium.svg)      | [https://medium.com/fewcha-wallet](https://medium.com/fewcha-wallet) |
 
-- Website: https://fewcha.app
-- Medium: https://medium.com/fewcha-wallet
-- Telegram: https://t.me/FewchaWallet
-- Discord: https://discord.io/fewcha
-- Twitter: https://twitter.com/fewchawallet
+## Public Repositories
+
+- https://github.com/fewcha-wallet/coins-list images of coins
+- https://github.com/fewcha-wallet/aptos-dart Fewcha Wallet mobile version
+- https://github.com/fewcha-wallet/dev-versions early access
+- https://github.com/fewcha-wallet/dapp-examples integration Fewcha wallet examples
+- https://github.com/fewcha-wallet/i18n display in different languages
