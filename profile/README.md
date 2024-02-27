@@ -27,7 +27,6 @@ Our integration docs: https://docs.fewcha.app
 |-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | ![Fewcha Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/fewcha-icon.svg) | [https://fewcha.app](https://fewcha.app)                             |
 | ![Twitter Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/twitter.svg)    | [https://twitter.com/fewchawallet](https://twitter.com/fewchawallet) |
-| ![Discord Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/discord.svg)    | [https://discord.gg/fewcha](https://discord.gg/fewchat)              |
 | ![Telegram Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/telegram.svg)  | [https://t.me/FewchaWallet](https://t.me/FewchaWallet)               |
 | ![Medium Logo](https://github.com/fewcha-wallet/.github/raw/main/profile/medium.svg)      | [https://medium.com/fewcha-wallet](https://medium.com/fewcha-wallet) |
 
